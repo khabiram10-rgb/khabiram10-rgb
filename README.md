@@ -28,7 +28,7 @@ I'm an ECE student interested in building practical electronics projects and exp
 - PCB Design Projects
 
 ## 📜 Certifications
-Explore my technical certifications in my repositories.
+Explore my [Technical Certifications Portfolio](https://github.com/khabiram10-rgb/certificates) to view my course completion certificates and technical training credentials.
 
 ## 🤝 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/khabira-m-7885682a7/
